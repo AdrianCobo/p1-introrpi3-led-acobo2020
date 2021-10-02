@@ -20,6 +20,7 @@ pwm.start (50)
 input("Ejecutando hasta que pulse una tecla...")
 
 #desactivamos el PWM con:
+
 pwm.stop ()
 
 #desactivamos los puertos GPIO:

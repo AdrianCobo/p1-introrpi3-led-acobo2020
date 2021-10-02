@@ -2,9 +2,10 @@
 
 ## (CC-BY-NC-SA) Adrián Cobo Merino
 
-El objetivo de este esta practica es conocer tener la primera toma de contacto con los componentes y pines de la raspberry pi.
+El objetivo de este esta práctica es tener la primera toma de contacto con los componentes y pines de la raspberry pi encendiendo y apagando
+un led.
 
-Algo que me ha parecido interesante es la simulacion de un puerto analogico modificando la frecuencia de un pulso digital.
+Algo que me ha parecido interesante es la simulación de un puerto análogico modificando la frecuencia de un pulso digital.
 Codigo de ejemplo:
 
 ```python
@@ -14,6 +15,7 @@ pwm = GPIO.PWM (11,100)
 #establecemos el ciclo de trabajo o DutyCyle (perıodo en que la senal esta en estado Alto)
 pwm.start (50)
 ```
-Pulsa [aqui](https://github.com/clases-julio)para ver un video del programa.
+Si quieres ver un video de demostracion, pulsa [aqui](https://drive.google.com/file/d/1mhw5sa_ZHguVLDJr6MUOeQjgKJUKqnlC/view?usp=sharing).
+En el video podemos ver como al ejecutar el programa se enciende el led y como se apaga tras pulsar enter.
 
 Para cualquier duda: <a.cobo.2020@alumos.urjc.es>
