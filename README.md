@@ -18,4 +18,6 @@ pwm.start (50)
 Si quieres ver un video de demostracion, pulsa [aqui](https://drive.google.com/file/d/1mhw5sa_ZHguVLDJr6MUOeQjgKJUKqnlC/view?usp=sharing).
 En el video podemos ver como al ejecutar el programa se enciende el led y como se apaga tras pulsar enter.
 
+Para ver un video de como se cambia el brillo de un led, pulsa [aqui](https://drive.google.com/file/d/1e5ObOYfce3r9FPLGaUlrA7qm6x5Lfiq2/view?usp=sharing).
+
 Para cualquier duda: <a.cobo.2020@alumos.urjc.es>
